@@ -13,11 +13,7 @@
 💼 Skilled in Dart, Firebase, API integration, and UI development  
 📬 Reach me at: **manahilprogrammer70@gmail.com**
 
----
-
-
----
-
+-----
 ## 🛠️ Languages and Tools
 
 <p align="left">

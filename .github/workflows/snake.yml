@@ -2,11 +2,11 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every midnight UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs daily at midnight
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -24,11 +24,11 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            "dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
+            dist/ocean.gif?color_snake=#FFA500&color_dots=#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Deploy to Output Branch
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

@@ -7,11 +7,18 @@
 
 ---
 
-🔭 I’m currently working on a **Habit Tracker App**  
-🌱 I’m currently learning **Flutter & Firebase integrations**  
-💬 Ask me about **Dart, Flutter, Firebase, UI Design**  
-📫 How to reach me: manahilprogrammer70@gmail.com  
-⚡ Fun fact: I believe great apps come from simple ideas executed beautifully!
+🎯 Building clean, responsive, and scalable mobile apps using Flutter  
+📱 I focus on creating practical and user-friendly app experiences  
+🧠 Always exploring better ways to solve real-world problems through code  
+💼 Skilled in Dart, Firebase, API integration, and UI development  
+📬 Reach me at: **manahilprogrammer70@gmail.com**
+
+---
+
+## 📱 Featured Projects
+
+- 🔹 **Habit Tracker App** – A minimal app to help users track and build daily habits.
+- 🔹 **Library Management App** – An app for managing book inventory, issuing/returning books, and organizing library records.
 
 ---
 
@@ -29,7 +36,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manahilhussain70&show_icons=true&theme=radical" alt="GitHub Stats" />

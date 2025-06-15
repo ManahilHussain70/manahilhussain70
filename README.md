@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manahil Hussain</h1>
 <h3 align="center">Flutter Developer | Cross-platform App Builder | AI Student</h3>
+<h3 align="center">🚀 Turning ideas into real-world mobile apps using Flutter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manahilhussain70&label=Profile%20views&color=0e75b6&style=flat" alt="manahilhussain70" />
@@ -13,7 +14,15 @@
 💼 Skilled in Dart, Firebase, API integration, and UI development  
 📬 Reach me at: **manahilprogrammer70@gmail.com**
 
------
+---
+
+## 📱 Featured Projects
+
+-  [**Habit Tracker App**](https://github.com/ManahilHussain70/Habit-Tracker) – A minimal app to build and maintain daily habits.
+-  [**Library Management System**](https://github.com/ManahilHussain70/Library-Management) – Manage books, records, and transactions with a clean and intuitive UI.
+
+---
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -50,6 +59,22 @@
 
 ---
 
+## 📜 Certifications
+
+- ✅ Flutter App Development – NAVTTC (EncoderBytes)
+- ✅ Flutter App Development – Alkhidmat Bano Qabil
+
+---
+
+## 🎯 Goals
+
+- 📲 Continue building cross-platform apps using Flutter  
+- 🧠 Improve skills in Firebase, REST APIs & advanced state management  
+- 🎨 Explore modern UI/UX design systems and animations  
+- 🤝 Collaborate on real-world open-source projects
+
+---
+
 ## 🔗 Connect with me
 
 <p align="left">
@@ -70,3 +95,20 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </p>
+
+---
+
+## 🏷️ Tech Stack Badges
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ManahilHussain70)

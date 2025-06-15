@@ -15,10 +15,6 @@
 
 ---
 
-## 📱 Featured Projects
-
-- 🔹 **Habit Tracker App** – A minimal app to help users track and build daily habits.
-- 🔹 **Library Management App** – An app for managing book inventory, issuing/returning books, and organizing library records.
 
 ---
 
